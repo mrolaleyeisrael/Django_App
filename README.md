@@ -1,2 +1,4 @@
 # Django_App
-Just startproject and startapp
+Just django-admin startproject and django-admin startapp
+
+
